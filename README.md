@@ -61,4 +61,4 @@ Projeto criado para estudo e evolução na área de **desenvolvimento back-end c
 
 ## 👩‍💻 Desenvolvido por
 
-**Thais**
+**Thais Vilela**
